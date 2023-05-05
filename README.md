@@ -12,6 +12,7 @@
 <p>Enthusiastic software developer dedicated to developing innovative software solutions that push technological boundaries and enhance user experience. 
 Learn more on <a href="https://princegachanja.netlify.app/">my website</a>!</p>
 
+
 <!--
 <h1 align="center">Recent Projects</h1>
 <table width="100%">
@@ -19,7 +20,7 @@ Learn more on <a href="https://princegachanja.netlify.app/">my website</a>!</p>
    <tr>
      <td width="50%">
        <h3 align="center">Antranna Recipes</h3>
-       <img src="" alt="" width="95%"/>
+       <img src="https://user-images.githubusercontent.com/129261938/236564021-a7001bf8-c8bd-44c4-8924-5ebb5a23a8f4.gif" alt="" width="95%"/>
        <p align="center" dir="auto">
          <a href="">
            <img src="" alt=""/>
@@ -49,7 +50,8 @@ Learn more on <a href="https://princegachanja.netlify.app/">my website</a>!</p>
      </td>
    </tr>
   </tbody>
-    
+
+<!--  
 <div>
   <h3 align="center">Languages and Tools</h3>
   <div align="center">
