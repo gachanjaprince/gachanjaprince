@@ -18,9 +18,9 @@ Learn more on <a href="https://princegachanja.netlify.app/">my website</a>!</p>
 <table width="100%">
  <tbody>
    <tr>
-     <td width="50%">
+     <td width="50%" valign="top">
        <h3 align="center">Antranna Recipes</h3>
-       <img src="https://user-images.githubusercontent.com/129261938/236564021-a7001bf8-c8bd-44c4-8924-5ebb5a23a8f4.gif" alt="" width="95%"/>
+       <img src="https://user-images.githubusercontent.com/129261938/236564021-a7001bf8-c8bd-44c4-8924-5ebb5a23a8f4.gif" alt="" width="100%"/>
        <p align="center" dir="auto">
          <a href="">
            <img src="" alt=""/>
@@ -29,13 +29,13 @@ Learn more on <a href="https://princegachanja.netlify.app/">my website</a>!</p>
            <img src="" alt=""/>
          </a>
        </p>
-       <p dir="">
-         <strong>TOOLS USED</strong> - Summary of project
+       <p dir="auto">
+         <strong>Javascript, CSS3 & HTML5</strong> - Find inspiration for your next dish! This dynamic site provides you with a unique but easy recipe around a specific main ingredient. Latest culinary trends and food-related articles are also available in our news section.
        </p>
      </td>
-     <td width="50%">
+     <td width="50%" valign="top">
        <h3 align="center">Xanadu Plants</h3>
-       <img src="" alt="" width="95%"/>
+       <img src="https://user-images.githubusercontent.com/129261938/237008005-dbcf3680-0bbd-4785-acce-23b3a1d0392a.jpg" alt="" width="100%"/>
        <p align="center" dir="auto">
          <a href="">
            <img src="" alt=""/>
@@ -45,13 +45,13 @@ Learn more on <a href="https://princegachanja.netlify.app/">my website</a>!</p>
          </a>
        </p>
        <p dir="">
-         <strong>TOOLS USED</strong> - Summary of project
+        <strong>Javascript, CSS3 & HTML5</strong> - Responsive home page for an online plant shop. You can also read about care tips to improve your plants' health.
        </p>
      </td>
    </tr>
   </tbody>
-
-<!--  
+ </table>
+  
 <div>
   <h3 align="center">Languages and Tools</h3>
   <div align="center">
