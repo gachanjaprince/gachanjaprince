@@ -3,10 +3,10 @@
 </div>
 <div id='badges' align="center">
   <a href="https://www.linkedin.com/in/princegachanja/">
-    <img src="https://img.shields.io/badge/LinkedIn-royalblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-royalblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
   </a>
   <a href="https://twitter.com/14PrinceG">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  </div>
 <p>Enthusiastic software developer dedicated to developing innovative software solutions that push technological boundaries and enhance user experience. 
